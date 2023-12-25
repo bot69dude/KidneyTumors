@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: cnnClassifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/bot69dude/KidneyTumors
+Author: bot69dude
+Author-email: nrithvik19@gmail.com
+Project-URL: Bug Tracker, https://github.com/bot69dude/KidneyTumors/issues
+
+# KidneyTumors
+this project is full end to end implementation of machine learning project for Kidney Tumors detection
